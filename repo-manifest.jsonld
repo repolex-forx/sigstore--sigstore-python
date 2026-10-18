@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sigstore/sigstore-python/commit/7ee385ac8be192771bff1cc553434b11282ecce6",
       "git:hexsha": "7ee385ac8be192771bff1cc553434b11282ecce6",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/sigstore/sigstore-python/commit/7fb389549650eb0c52b090db6393bd44f60a3583",
