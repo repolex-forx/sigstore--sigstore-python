@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/sigstore/sigstore-python/commit/7ee385ac8be192771bff1cc553434b11282ecce6",
       "git:hexsha": "7ee385ac8be192771bff1cc553434b11282ecce6",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T05:03:57.128069+00:00"
     },
     {
       "@id": "https://repolex.ai/r/sigstore/sigstore-python/commit/7fb389549650eb0c52b090db6393bd44f60a3583",
