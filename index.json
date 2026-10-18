@@ -1,0 +1,11 @@
+{
+  "org": "sigstore",
+  "repo": "sigstore-python",
+  "versions": [
+    {
+      "commit": "7ee385ac8be192771bff1cc553434b11282ecce6",
+      "tag": "",
+      "parsed_at": "2026-10-18T05:03:57.128935+00:00"
+    }
+  ]
+}
